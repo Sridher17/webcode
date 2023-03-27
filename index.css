@@ -13,7 +13,7 @@ body{
 
 
 .container-fluid{
-    color: rgba(240, 255, 255, 0.311);
+    color: rgba(240, 255, 255, 0.46);
 }
 
 #searchtext{
@@ -27,7 +27,7 @@ body{
 }
 
 #result{
-    color: rgba(160, 167, 173, 0.67);
+    color: rgba(189, 192, 196, 0.842);
 }
 
 
